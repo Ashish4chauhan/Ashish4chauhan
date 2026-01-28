@@ -94,7 +94,7 @@ Projects covering:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish4chauhan&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://raw.githubusercontent.com/Ashish4chauhan/Ashish4chauhan/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
